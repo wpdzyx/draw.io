@@ -1,23 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T06:49:53.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="fyCOq79fpcls_pjQFdmM" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T07:01:34.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="5SPOfvHDFtFCRjr9x9XB" version="13.6.2" type="github">
   <diagram id="s64uWzQ2gAf_Oj6svmaC" name="Page-1">
-    <mxGraphModel dx="1038" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A2H2rxIlcoh9_1_Jdzxk-1" target="A2H2rxIlcoh9_1_Jdzxk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A2H2rxIlcoh9_1_Jdzxk-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/44-Antenna-128.png" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="128" height="128" as="geometry" />
+          <mxGeometry x="30" y="280" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A2H2rxIlcoh9_1_Jdzxk-2" target="A2H2rxIlcoh9_1_Jdzxk-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2H2rxIlcoh9_1_Jdzxk-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/media-technology-1/512/satellite-128.png" vertex="1" parent="1">
-          <mxGeometry x="297" y="80" width="128" height="128" as="geometry" />
+          <mxGeometry x="30" y="9" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A2H2rxIlcoh9_1_Jdzxk-3" target="A2H2rxIlcoh9_1_Jdzxk-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2H2rxIlcoh9_1_Jdzxk-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/44_satellite_antenna_radar_space_dish_space-128.png" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="128" height="128" as="geometry" />
+          <mxGeometry x="220" y="9" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A2H2rxIlcoh9_1_Jdzxk-4" target="A2H2rxIlcoh9_1_Jdzxk-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2H2rxIlcoh9_1_Jdzxk-4" value="" style="shape=mxgraph.cisco.wireless.antenna;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top" vertex="1" parent="1">
-          <mxGeometry x="381" y="280" width="88" height="104" as="geometry" />
+          <mxGeometry x="240" y="292" width="88" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A2H2rxIlcoh9_1_Jdzxk-5" target="A2H2rxIlcoh9_1_Jdzxk-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2H2rxIlcoh9_1_Jdzxk-5" value="" style="shape=mxgraph.cisco.misc.stb;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="86" height="37" as="geometry" />
+          <mxGeometry x="450" y="210" width="86" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.fire_tv;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="164" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="640" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-15" value="DEMOD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-16" value="DEMUX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="228" y="550" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-17" value="ADEC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-18" value="VDEC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-19" value="DISPLAY OUT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_settings_input_hdmi_48px-128.png;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="700" y="550" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-21" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-22" value="GUI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="730" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-23" value="ADAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2H2rxIlcoh9_1_Jdzxk-24" value="L/R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
